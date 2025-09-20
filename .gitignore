@@ -1,0 +1,27 @@
+]# Ignore everything by default
+/*
+
+# Allow these folders
+!/src/
+!/res/
+
+# Allow the gitignore itself, readme, and requirements
+!/.gitignore
+!/README.md
+!/requirements.txt
+
+# Inside src/ and res/, ignore junk
+src/__pycache__/
+res/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE & virtual env stuff
+.idea/
+venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
