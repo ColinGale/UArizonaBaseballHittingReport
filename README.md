@@ -30,7 +30,9 @@ cd UArizonaBaseballHittingReport
 
 ### 2. Install dependencies
 This project uses **Python 3.x** with the following libraries:
+```bash
 pip install pandas numpy matplotlib scipy
+```
 
 ### 3. Add resources
 Make sure the following resources are available:
