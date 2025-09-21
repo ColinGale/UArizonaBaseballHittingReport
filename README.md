@@ -23,8 +23,10 @@ Below is an example output of the report generated on **June 7, 2025 vs. North C
 ## 🚀 How to Run
 
 ### 1. Clone the repository
+```bash
 git clone https://github.com/ColinGale/UArizonaBaseballHittingReport
 cd UArizonaBaseballHittingReport
+```
 
 ### 2. Install dependencies
 This project uses **Python 3.x** with the following libraries:
